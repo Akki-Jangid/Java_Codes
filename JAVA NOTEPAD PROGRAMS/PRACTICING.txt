@@ -1,0 +1,21 @@
+class PRACTICING {
+   public static void main(String []args){
+	char1 = "A";
+	char2 = "B";
+	char3 = 66;
+	System.out.println("MY NAME IS AKKI");
+	System.out.println("CHAR_1 = "+char1+", CHAR_2 = "+char2+", CHAR_3 = "+char3);
+  }
+}
+
+class PRACTICING_1{
+	public static void main(String[] args){
+		System.out.println("My Name is Akki From PRACTICING_1 CLASS.");
+	}
+}
+
+class PRACTICING_2{
+	public static void main(String[] args){
+		System.out.println("My Name is Akki From PRACTICING_2 CLASS.");
+	}
+}
